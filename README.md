@@ -14,8 +14,6 @@
     <li>Informe o número de partidas que gostaria de testar e siga os passos informados no programa.</li>
   </ul>
 
-<!--
 <h2><b>Guia e Demonstração</b></h2
 
-https://youtu.be/MbFaPJ6pBqY
--->
+https://youtu.be/zVGlgdIXavU
